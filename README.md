@@ -1,9 +1,8 @@
 # California-Reservoirs-Data-Car-Sounds-Dashboard-
 CMPE 273 Hackathon
-Here's a concise and clear breakdown of what you need to accomplish in this project:
 
 ### Project Overview:
-You've been assigned two projects focusing on scalable enterprise distributed architectures:
+We have been assigned two projects focusing on scalable enterprise distributed architectures:
 
 1. **State Reservoir Water Department**:
     - Transition from a legacy architecture to a modern distributed architecture.
@@ -47,6 +46,5 @@ You've been assigned two projects focusing on scalable enterprise distributed ar
 - **Interactive Dashboards**:
     - **Water Department**: Interface to monitor reservoir and water resource data.
     - **Automobile Company**: Dashboard for real-time visualization of motor sound anomalies indicating vehicle safety equipment status.
-- **Documentation and Deployment Scripts**: Clear instructions and scripts for deploying, maintaining, and scaling both solutions.
+- **Documentation and Deployment Scripts**
 
-This is the essential summary of your tasks clearly outlined for execution.
